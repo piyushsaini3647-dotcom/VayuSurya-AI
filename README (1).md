@@ -9,24 +9,7 @@
 
 ---
 
-# 📹 Demo Video (5 minutes)
-**Google Drive Link:** ( https://drive.google.com/drive/folders/1gwfkx_i0bL2WvbnUKus_esolI--eOBEO?usp=sharing )
 
-Click the link above to watch the complete demonstration of the application.The video demonstrates the live app, forecast generation, weather override, SHAP explainability, and data export features.
-
-
----
-
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Kuldeep Parmar | Team Leader |
-| Nishchal Soni | Member |
-| Ankit Mewada | Member |
-| Piyush Saini | Member |
-
----
 
 ## 🚀 Quick Start
 
@@ -64,7 +47,7 @@ VayuSurya-AI/
 
 ---
 
-## 🎯 Problem Statement (Theme 10)
+## 🎯 Problem Statement 
 
 Karnataka has significant solar and wind capacity, but renewable generation is inherently variable — solar depends on cloud cover & irradiation, wind depends on speed & direction. As renewable penetration increases, inaccurate forecasts cause:
 - ❌ Inefficient scheduling
@@ -75,7 +58,7 @@ Karnataka has significant solar and wind capacity, but renewable generation is i
 
 ---
 
-## 💡 Our Solution
+## 💡 My Solution
 
 VayuSurya AI is a **forecasting layer** that works alongside existing systems without modifying them. It:
 
