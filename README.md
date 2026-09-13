@@ -1,6 +1,6 @@
 # 🌤️ VayuSurya AI
 ### AI-Based Renewable Generation Forecasting System
-**AI for Bharat Hackathon — Theme 10 | KREDL / KSPDCL Karnataka**
+**AI for Bharat Hackathon — KREDL / KSPDCL Karnataka**
 
 ---
 
