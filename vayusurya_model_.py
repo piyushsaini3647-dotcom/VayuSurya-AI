@@ -1,7 +1,8 @@
 """
 VayuSurya AI — Forecasting Engine v2.0
 Quantile Regression Forest + Evaluation Metrics + Cluster Aggregation
-KREDL / KSPDCL Karnataka — AI for Bharat Hackathon Theme 10
+KREDL / KSPDCL Karnataka — AI for Bharat Hackathon 
+
 """
 
 import numpy as np
