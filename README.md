@@ -2,6 +2,7 @@
 ### AI-Based Renewable Generation Forecasting System
 **AI for Bharat Hackathon — KREDL / KSPDCL Karnataka**
 
+
 ---
 
 > **VayuSurya** = *Vayu (Wind) + Surya (Sun)*
